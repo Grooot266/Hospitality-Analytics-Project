@@ -2,8 +2,10 @@
 
 • Designed a Power BI dashboard that improved business decision-making by tracking weekly changes in revenue, occupancy, and
 RevPAR for hospitality clients.
+
 • Implemented DAX measures to calculate WoW percentage changes using dynamic date filtering and context-aware calculations
 for current and previous week comparisons.
+
 • Applied DAX functions like CALCULATE, FILTER, ALL, and DIVIDE to create reusable and optimized formulas for visualizing
 performance trends
 
